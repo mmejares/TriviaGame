@@ -10,8 +10,8 @@ h1 {
 	height: 475px;
 	width: 550px;
 	text-align: center;
-	position: absolute;
-	left: 220px;
+	position: fixed;
+	
 
 	
 
